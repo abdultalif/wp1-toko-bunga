@@ -1,0 +1,126 @@
+body {
+	background-color: blue;
+}
+
+.container{
+	background: #eaeaea;
+	width: 100%;
+	margin: auto;
+
+}
+
+.header{
+	background: linear-gradient(-45deg, #3498db, #2980b9);
+	width: 100%;
+}
+
+.header .header1{
+	width: 15%;
+	float: left;
+	/*border: 1px solid black;*/
+}
+
+.header1 img{
+	width: 200px;
+	height: 100px;
+	margin-top: -20px;
+}
+
+.clear{
+	clear: both;
+}
+
+.header2{
+	position: absolute;
+	float: left;
+	left: 35%;
+	top: 40px;
+}
+
+.link{
+	height: 43px;
+	margin-top: -16px;
+	color: white;
+	background: #eaeaea;
+}
+
+.link ul{
+	list-style: none;
+	margin-left: 25%;
+}
+.link ul li{
+	margin-left: 50px;
+	display: inline-block;
+	padding: 10px;
+}
+.link a{
+	padding: 10px;
+	left: 50%;
+	text-decoration: none;
+}
+.link ul li.active a, .link ul li a:hover{
+	background: #999;
+	color: black
+}
+.link1{
+	width: 40%;	
+}
+
+.gambar {	
+	margin:10px 10px 10px 10px;
+	text-align: center;
+	float:left;
+	width:98.5%;
+	background-color: white;
+	padding-top: 5px;
+	overflow: hidden;
+}
+
+.brand{
+	background: white;
+	width: 98.5%; 
+	margin-left: 10px;
+}
+.brand1{
+	margin-left: 30%;
+	margin-bottom: 4%; 
+}
+.brand1 img{
+	float: left;
+	margin-right: 20px;
+
+}
+
+.kotakbunga{
+	margin-left: 35px;  
+	background: #fff;
+	width: 30%;
+	height: 200px;
+	float: left;
+	margin-top: 7px;
+	margin-bottom: 1%;
+}
+.kotakbunga span{
+	position: absolute;
+	margin-top: 6%;
+	margin-left: 1%;
+	font-size: 26px;
+}
+.kotakbunga a{
+	position: absolute;
+	margin-top: 9%;
+	margin-left: 17.5%;
+	font-size: 20px;
+}
+
+.kotakbunga a:hover {
+	color: red;
+}
+
+.kotakbunga a:visited {
+	color: blue;
+}
+
+.kotakbunga img{
+width: 200px;
+}

@@ -1,0 +1,111 @@
+.nama{
+	width: 100%;
+	background: rgba(255,255,255,.8);
+}
+.nama h2{
+	font-size: 20px;
+	margin: 0px;
+	margin-left: 30px; 
+}
+.nama p{
+	display: inline-block;
+	color: red;
+	text-shadow: 10px 1px 2px white;	 
+}
+.nama hr{
+	color: rgba(200, 200, 200, .8);
+	margin-top: -10px;
+}
+.sidebar{
+	width: 10%;
+	float: left;
+	padding: 0px 10px 0px 10px;
+}
+.sidebar p{
+	margin-left: 5px;
+	text-align: center;
+}
+.sidebar p hr{
+	padding: 0px 10px 0px 10px; 
+}
+.sidebar a{
+	color: red;
+	text-decoration: none;
+	margin-top: 0px;
+	margin-left: 20px;
+}
+
+.bunga{
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 0px;
+}
+
+.aksesoris{
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: -10px;
+}
+
+.content{
+	width: 88%;
+	margin-bottom: -2px;
+	margin-left: 11.6%;
+}
+.content h3{
+	margin-left: 50%;
+	color: red;
+}
+.content img{
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: relative;
+}
+.content td{
+	position: relative; /* untuk mengatur span di gambar border radius*/
+}
+.content p{
+	text-align: center;
+}
+.content span{
+	color: black;
+	font-weight: bold;
+	display: block;
+	width: 200px;
+	height: 200px;
+	background: rgba(200, 200, 200, .5);
+	margin-left: 20px;
+	border-radius: 50%;
+	position: absolute;
+	top: -8px;
+	left: -5px;
+	text-align: center;
+	line-height: 200px; 
+	opacity: 0;
+	transition: .5s;
+	transform: rotate(0deg);	
+	font-size: 20px;
+}
+.content span:hover{
+	opacity: 1;
+	transform: rotate(360deg);
+}
+.content .border{
+	width: 200px;
+	height: 200px;
+	background: rgba(255,255,255,1);
+	margin-top: -30px;
+	transition: .3s;
+}
+.content .border:hover{
+	border-radius: 50%;
+	overflow: hidden;
+}
+.content table{
+	margin-left: 120px;	
+}
+.content table a{
+	text-decoration: none;
+	color: black;
+}
