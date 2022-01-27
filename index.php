@@ -29,7 +29,7 @@
 		
 		
 	
-	<p style="margin-left: 20px">Blanjain Aja adalah toko yang didirikan untuk semua orang yang memiliki minat dalam menanam pohon atau membeli yang langsung jadi.
+	<p style="margin-left: 20px">Blanjain Aja adalah toko yang di dirikan untuk semua orang yang memiliki minat dalam menanam pohon atau membeli yang langsung jadi.
 	Alasan kita membuka toko ini karena kita ingin banyak orang menanam pohon atau membeli pohon agar pekarang rumah pembeli menjadi lebih sejuk dan mengatasi global warning yang ada di dunia ini. Produk yang kami jual adalah produk yang menurut kami produk yang bisa membuat ekspetasi anda tercapaikan. Kita juga sudah memiliki testimoni dari pembeli, pembeli produk kami telah mengirimkan foto tanaman mereka yang sudah jadi.</p>
 	<h1 align="center">TESTIMONI</h1>
 	<div class="gambar2">
